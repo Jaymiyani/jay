@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Jay Miyani</h1>
+
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>
+        Hello! I am a Jay!<p></p>     
+          I am a  passionate web developer with experience in creating modern, responsive websites and applications. I love building clean, user-friendly designs and writing efficient code.
+      </p>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul class="skills-list">
+        <li>HTML</li>
+        <li>C++</li>
+        <li>Java</li>
+        <li>Python</li>
+
+      </ul>
+    </section>
+ <section id="contact">
+      <h2>Contact</h2>
+      <ul>
+        <li>Email: 9000000009@gmail.com</li>
+        <li>Phone:  +91 9000000009 </li>
+    </section>
+  </main>
+
+</body>
+</html>
